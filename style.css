@@ -1,0 +1,14 @@
+.button-container, #grid-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+#grid-container {
+    justify-self: center;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+    background-color: blueviolet;
+    padding: 10px;
+}
