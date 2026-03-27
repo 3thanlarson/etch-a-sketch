@@ -9,6 +9,7 @@
     flex-direction: column;
     align-items: center;
     width: auto;
-    background-color: blueviolet;
+    background-color: palegoldenrod;
     padding: 10px;
+    border-radius: 10px;
 }
